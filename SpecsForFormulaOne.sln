@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecsForFormulaOne.Specs", "SpecsForFormulaOne.Specs\SpecsForFormulaOne.Specs.csproj", "{4A66B166-6CBD-43B6-81C3-F79C483B2F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecsForFormulaOne.Mvc", "SpecsForFormulaOne.Mvc\SpecsForFormulaOne.Mvc.csproj", "{721C709D-EFF8-4807-BE45-B86BBBE1C737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A66B166-6CBD-43B6-81C3-F79C483B2F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A66B166-6CBD-43B6-81C3-F79C483B2F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A66B166-6CBD-43B6-81C3-F79C483B2F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A66B166-6CBD-43B6-81C3-F79C483B2F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721C709D-EFF8-4807-BE45-B86BBBE1C737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721C709D-EFF8-4807-BE45-B86BBBE1C737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721C709D-EFF8-4807-BE45-B86BBBE1C737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721C709D-EFF8-4807-BE45-B86BBBE1C737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D82BC4A-363D-47EA-ACBA-06FAE778D952}
+	EndGlobalSection
+EndGlobal
