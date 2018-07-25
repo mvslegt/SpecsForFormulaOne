@@ -8,6 +8,6 @@ And the SpecsFor website:
 
 http://specsfor.com/
 
-This repo is the code source used in a blog article written about SpecsFor.
+This repo is the code source used in a blog article (https://www.bergler.nl/specsfor-een-bdd-framework/) written about SpecsFor.
 
 
